@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #8a878a;
+	font-family: 'Amiri', serif;
+
+}
+.container{
+	width: 300px;
+	height: auto;
+	margin: auto;
+	margin-top: 40px;
+	box-shadow: 4px 4px 4px 0 rgba(233, 240, 243, 0.8), 0 0 0 1px white;
+
+	background-color: #dbd7db;
+	border-radius: 5px;
+	align-items: center;
+	text-align: center;
+}
+#clear{
+	width: 300px;
+}
+
+label{
+	font-size: 30px;
+	color: #403e40;
+
+}
+input{
+	width: 90px;
+	padding: 10px;
+	font-size: 20px;
+	color: #7d7a7d;
+	border-radius: 5px;
+	background-color: #f0edf0;
+}
+#answer{
+	width: 275px;
+	border: 1px solid #dbd7db;
+}
